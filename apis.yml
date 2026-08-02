@@ -1,9 +1,30 @@
 aid: thndr
 name: Thndr
-description: 'Thndr is a company surfaced as a portfolio company of prosus-ventures and added to the API
-  Evangelist network as a stub for enrichment. Sector: fintech. This profile is a lead awaiting the enrichment
-  pipeline.'
+description: >-
+  Thndr is an Egyptian investment and brokerage mobile app that lets retail users open a
+  regulated brokerage account and invest in Egyptian Exchange (EGX) stocks, US equities,
+  mutual funds, ETFs, and IPOs from their phone. Founded in 2019 and headquartered in Cairo,
+  Thndr is licensed by Egypt's Financial Regulatory Authority (FRA) and registered with the
+  Egyptian Exchange as a brokerage, positioning itself as a low-cost, mobile-first gateway to
+  the capital markets across Egypt and the wider MENA region. The company raised a $20M Series
+  A in 2022 led by Tiger Global with participation from Prosus Ventures and others, and has been
+  recognized among Forbes Middle East's top fintech companies. Thndr's product surface is a
+  consumer investing app (iOS, Android, and a web account-access portal) with an educational
+  Learn hub and a customer support center; as of this profile it publishes no public developer
+  program, API documentation, or machine-readable API artifacts.
 url: https://raw.githubusercontent.com/api-evangelist/thndr/refs/heads/main/apis.yml
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://thndr.app/wp-content/uploads/2024/01/cropped-Thndr-Flag-black-192x192.png
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
@@ -12,10 +33,19 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-21'
 tags:
 - Company
 - Fintech
+- Investing
+- Brokerage
+- Stock Trading
+- Wealth Management
+- Personal Finance
+- Financial Services
+- Egypt
+- MENA
+- Mobile App
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -25,3 +55,18 @@ maintainers:
 common:
 - type: Website
   url: https://thndr.app
+- type: Support
+  url: https://support.thndr.app/
+- type: Blog
+  url: https://thndr.app/blogpost
+- type: Login
+  url: https://web.thndr.app/account-access
+- type: PrivacyPolicy
+  url: https://thndr.app/privacy/
+- type: TermsOfService
+  url: https://thndr.app/wp-content/uploads/2025/03/Thndr-Terms-Conditions-V1.2.pdf
+x-enrichment:
+  date: '2026-07-21'
+  status: minimal
+  artifacts_added: 0
+  pass: local-v1
