@@ -3,12 +3,12 @@
   "feeds": [
     {
       "source": "https://support.thndr.app/",
-      "feed_url": "https://support.thndr.app/",
+      "feed_url": "https://support.thndr.app/feed.xml",
       "title": "",
-      "saved": 0,
-      "method": "none"
+      "saved": 25,
+      "method": "discovered"
     }
   ],
-  "post_count": 0,
-  "fetched": "2026-09-06T19:17:18Z"
+  "post_count": 25,
+  "fetched": "2026-09-13T13:00:00Z"
 }
