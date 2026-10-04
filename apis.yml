@@ -53,7 +53,7 @@ tags:
 - Stock Trading
 - Wealth Management
 - Personal Finance
-- Financial-Services
+- Financial Services
 - Egypt
 - MENA
 - Mobile App
@@ -69,6 +69,7 @@ tags_raw:
 - Egypt
 - MENA
 - Mobile App
+- Financial-Services
 apis: []
 maintainers:
 - FN: Kin Lane
